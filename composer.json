@@ -1,5 +1,6 @@
 {
     "name": "salsan/announcements",
+    "description": "Library extracting announcements from pages of Federazione Scacchistica Italiana",
     "license": "MIT",
     "autoload": {
         "psr-4": {
