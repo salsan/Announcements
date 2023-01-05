@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "PHPUnit",
+            "type": "shell",
+            "windows": {
+                "command": ".\\vendor\\bin\\phpunit",
+              },      
+            "group": "test",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
