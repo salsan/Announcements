@@ -17,9 +17,4 @@ class All extends Nitobicom
 
     parent::setData($table);
   }
-
-  function getData(): array
-  {
-    return parent::getData();
-  }
 }

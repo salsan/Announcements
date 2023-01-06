@@ -17,9 +17,4 @@ class News extends Nitobicom
 
     parent::setData($table);
   }
-
-  function getData(): array
-  {
-    return parent::getData();
-  }
 }
